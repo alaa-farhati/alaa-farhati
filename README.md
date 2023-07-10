@@ -6,9 +6,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%234E14B8&size=24&lines=I'am+Aspiring+Fullstack+Dev...;Skilled+in+MERN+Stack;)
 
 
-<br>
+
 <img width='100%' src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt='Line gif'  />
-<br><br>
+<br>
 
 ## 💫 who's ?
 
@@ -21,9 +21,8 @@
 - 💬 Ask me about MERN, Mobile .
 - 📫 How to reach me farhatiala7@gmail.com .
 - ⚡ Life is a Fun fact 
-<br><br>
+<img width='100%' src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt='Line gif'  />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 ## 🌐 Socials:
 <div align="left">
@@ -34,12 +33,7 @@
   <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
-
-###
-<br/>
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img width='100%' src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt='Line gif'  />
 
 ## 💻 Tecnologies:
 ###
@@ -128,10 +122,8 @@
 
 ###
 
-<br/>
-<br/>
+<img width='100%' src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt='Line gif'  />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alaa-farhati&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -154,7 +146,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/alaa-farhati/alaa-farhati/output/snake.svg" alt="Snake animation" />
+
+
 
 ###
 
