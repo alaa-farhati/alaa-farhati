@@ -10,7 +10,7 @@
 <img width='100%' src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt='Line gif'  />
 <br>
 
-## 💫 who's ?
+## As s Full stack devoloper ?
 
 [![](https://visitcount.itsvg.in/api?id=Anji515&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 <img align="right" alt="Coding" width="300" height='230px' src="https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif" >
@@ -156,11 +156,7 @@
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
 
 
-###
 
-<img src="https://raw.githubusercontent.com/alaa-farhati/alaa-farhati/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
