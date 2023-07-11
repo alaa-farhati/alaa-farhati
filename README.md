@@ -1,9 +1,10 @@
 <!-- Home Section  -->
 <!-- [![MasterHead](https://www.wrenchsp.com/wp-content/uploads/2022/11/control-scope-creep-in-construction-projects-800x380.png)](https://anji515.github.io) -->
-![logo](https://github.com/alaa-farhati/alaa-farhati/blob/main/img.png)
 <h1 align="center">Hey, I'm Alaa Farhati <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+![logo](https://github.com/alaa-farhati/alaa-farhati/blob/main/img.png)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%234E14B8&size=24&lines=I'am+Aspiring+Fullstack+Dev...;Skilled+in+MERN+Stack;)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%234E14B8&size=24&lines=I'am+Fullstack+Dev...;Skilled+in+MERN+Mobile;)
 ## As s Full stack devoloper ?
 
 <img align="right" alt="Coding" width="300" height='230px' src="https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif" >
