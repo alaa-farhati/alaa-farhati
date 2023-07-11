@@ -1,6 +1,6 @@
 <!-- Home Section  -->
 <!-- [![MasterHead](https://www.wrenchsp.com/wp-content/uploads/2022/11/control-scope-creep-in-construction-projects-800x380.png)](https://anji515.github.io) -->
-<h1 align="center">Hey, I'm Alaa Farhati <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+
 ![logo](https://github.com/alaa-farhati/alaa-farhati/blob/main/img.png)
 
 
