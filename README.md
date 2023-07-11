@@ -7,7 +7,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%336699&size=24&lines=I'am+Fullstack+Dev...;Skilled+in+MERN+Mobile;)
 ## As s Full stack devoloper ?
 
-<img align="right" alt="Coding" width="300" height='230px' src="https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif" >
+<img align="right" alt="Coding" width="230" height='230px' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952b72yoy4nvynh8l9wwsgif45n0uhq28px0ggycd59&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" >
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=Rishav048&label=Profile%20views&color=0e75b6&style=flat" alt="Anji" /></p> -->
 
 - 🔭 I’m currently working on Skilly!
@@ -15,7 +15,7 @@
 - 💬 Ask me about MERN, Mobile .
 - 📫 How to reach me farhatiala7@gmail.com .
 - ⚡ Life is a Fun fact 
-<img width='100%' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952b72yoy4nvynh8l9wwsgif45n0uhq28px0ggycd59&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt='Line gif'  />
+<img width='100%' src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt='Line gif'  />
 
 
 ## 🌐 Socials:
