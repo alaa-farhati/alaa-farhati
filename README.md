@@ -4,7 +4,7 @@
 ![logo](https://github.com/alaa-farhati/alaa-farhati/blob/main/img.png)
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%234E14B8&size=24&lines=I'am+Fullstack+Dev...;Skilled+in+MERN+Mobile;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%336699&size=24&lines=I'am+Fullstack+Dev...;Skilled+in+MERN+Mobile;)
 ## As s Full stack devoloper ?
 
 <img align="right" alt="Coding" width="300" height='230px' src="https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif" >
