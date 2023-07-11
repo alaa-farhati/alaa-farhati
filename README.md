@@ -18,7 +18,7 @@
 <img width='100%' src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt='Line gif'  />
 
 
-## 🌐 Socials:
+## 🌐 Socials :
 <div align="left">
 <a
 href="https://www.linkedin.com/in/alaa-farhati-51400427b/" target="_blanc">
@@ -33,7 +33,7 @@ href="https://www.linkedin.com/in/alaa-farhati-51400427b/" target="_blanc">
 </div>
 <img width='100%' src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt='Line gif'  />
 
-## 💻 Tecnologies:
+## 💻 Tecnologies :
 ###
 
 <div align="left">
