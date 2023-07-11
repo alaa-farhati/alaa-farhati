@@ -156,6 +156,12 @@
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
 
 
+###
+
+<img src="https://raw.githubusercontent.com/alaa-farhati/alaa-farhati/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
