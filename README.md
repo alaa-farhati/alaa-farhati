@@ -10,8 +10,8 @@
 <img align="right" alt="Coding" width="300" height='230px' src="https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif" >
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=Rishav048&label=Profile%20views&color=0e75b6&style=flat" alt="Anji" /></p> -->
 
-- 🔭 I’m currently preparing for placements!
-- 🌱 I’m currently learning **Node.js, Express.js, MongoDB** .
+- 🔭 I’m currently working on Skilly!
+- 🌱 I’m currently learning **Aws,python** .
 - 💬 Ask me about MERN, Mobile .
 - 📫 How to reach me farhatiala7@gmail.com .
 - ⚡ Life is a Fun fact 
