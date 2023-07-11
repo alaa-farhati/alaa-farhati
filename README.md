@@ -124,9 +124,10 @@ href="https://www.linkedin.com/in/alaa-farhati-51400427b/" target="_blanc">
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alaa-farhati&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+ 
   <img src="https://streak-stats.demolab.com?user=alaa-farhati&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+<img width='100%' src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt='Line gif'  />
 
 ## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alaa-farhati&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
