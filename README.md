@@ -7,7 +7,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%336699&size=24&lines=I'am+Fullstack+Dev...;Skilled+in+MERN+Mobile;)
 ## As s Full stack devoloper ?
 
-<img align="right" alt="Coding" width="230" height='230px' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952b72yoy4nvynh8l9wwsgif45n0uhq28px0ggycd59&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" >
+<img align="right" alt="Coding" width="310" height='230px' src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952b72yoy4nvynh8l9wwsgif45n0uhq28px0ggycd59&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" >
 <!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=Rishav048&label=Profile%20views&color=0e75b6&style=flat" alt="Anji" /></p> -->
 
 - 🔭 I’m currently working on Skilly!
