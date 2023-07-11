@@ -1,6 +1,6 @@
 <!-- Home Section  -->
 <!-- [![MasterHead](https://www.wrenchsp.com/wp-content/uploads/2022/11/control-scope-creep-in-construction-projects-800x380.png)](https://anji515.github.io) -->
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/alaa-farhati/alaa-farhati/Hello, my name is Farhati ALAA. (1).png)
 <h1 align="center">Hey, I'm Alaa Farhati <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%234E14B8&size=24&lines=I'am+Aspiring+Fullstack+Dev...;Skilled+in+MERN+Stack;)
