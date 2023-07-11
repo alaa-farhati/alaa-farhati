@@ -128,16 +128,12 @@ href="https://www.linkedin.com/in/alaa-farhati-51400427b/" target="_blanc">
   <img src="https://streak-stats.demolab.com?user=alaa-farhati&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-### ✍️ Quote of the day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-  
 ## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alaa-farhati&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 <h2 align="left"></h2>
 <br/>
 
-<h2 align='center'>Give a ⭐ on the repos you like</h2>
+<h2 align='center'>Give a ⭐ on the repo you like</h2>
 
 
 
