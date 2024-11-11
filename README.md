@@ -7,8 +7,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%336699&size=24&lines=I'am+Fullstack+Dev...;Skilled+in+MERN+Mobile;)
 ## As s Full stack devoloper ?
 
-<img align="right" alt="Coding" width="340" height='230px' src="https://www.linkedin.com/in/alaafarhati/overlay/background-image/" >
-<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=Rishav048&label=Profile%20views&color=0e75b6&style=flat" alt="Anji" /></p> -->
+[<img align="right" alt="Coding" width="340" height='230px' src="https://www.linkedin.com/in/alaafarhati/overlay/background-image/" >
+](url)<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=Rishav048&label=Profile%20views&color=0e75b6&style=flat" alt="Anji" /></p> -->
 
 - 🔭 I’m currently working on Skilly!
 - 🌱 I’m currently learning **Aws,python** .
