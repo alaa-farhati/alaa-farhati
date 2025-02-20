@@ -1,7 +1,7 @@
 <!-- Home Section  -->
 <!-- [![MasterHead](https://www.wrenchsp.com/wp-content/uploads/2022/11/control-scope-creep-in-construction-projects-800x380.png)](https://anji515.github.io) -->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%336699&size=24&lines=I'am+a+React+Native+Developer...;Specialized+in+Android+and+iOS+Development;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%336699&size=24&lines=I'am+a+React+Native+Developer...;Specialized+in+Android+and+iOS+Development................;)
 ## As a React Native Developer
 
 - 🔭 I’m currently working on Skilly!
